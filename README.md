@@ -1,5 +1,5 @@
 # ML-coursework
-Machine learning coursework for Applied Machine Learning Systems ELEC0134
+<h1>Machine learning coursework for Applied Machine Learning Systems ELEC0134</h1>
 
 Project aim : To develop multiple machine learning models for classifying images of brain tumors (2 binary models, one non-deep learning approach and one deep learning appraoch and one multi-class model) and tune the models to achieve "good" performance. 
 
@@ -11,3 +11,15 @@ File 4 contains the binary deep learning model - this includes pulling the the d
 File 5 contains the multi-class deep learning model - this includes pulling the the data and training the model.<br />
 
 Each file can be ran independently, all required modules are listed at the end of this file.  
+
+
+<h2>Dependencies</h2> 
+<br>
+<h3>Data handling</h3>
+<br>
+<h3>Machine Learning (non deep learning)</h3>
+<br>
+<h3>Deep learning</h3>
+<br>
+<h3>Plotting</h3>
+
