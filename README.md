@@ -16,19 +16,24 @@ Each file can be ran independently, all required modules are listed at the end o
 <h2>Dependencies</h2> 
 <br>
 <h3>Data handling</h3>
-* pandas
-* numpy
-* OS
-* PIL
-<br>
+<ul>
+ <li> pandas </li>
+ <li> numpy </li>
+ <li> OS </li>
+ <li> PIL </li>
+</ul>
 <h3>Machine Learning (non deep learning)</h3>
-* sklearn
-<br>
+<ul>
+ <li> sklearn </li>
+</ul>
 <h3>Deep learning</h3>
-* tensorflow
-* keras
-<br>
+<ul> 
+ <li> tensorflow </li>
+ <li> keras </li>
+</ul>
 <h3>Plotting</h3>
-* seaborn
-* matplotlib
+<ul>
+ <li> seaborn </li>
+ <li> matplotlib </li>
+</ul>
 
