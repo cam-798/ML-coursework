@@ -15,23 +15,26 @@ Each file can be ran independently, all required modules are listed at the end o
 
 <h2>Dependencies</h2> 
 <br>
-<h3>Data handling</h3>
+Python 3.9 (at the time of writing this code doesnt work with Python 3.10)
+
+<h3>Libraries</h3>
+<h4>Data handling</h4>
 <ul>
  <li> pandas </li>
  <li> numpy </li>
  <li> OS </li>
  <li> PIL </li>
 </ul>
-<h3>Machine Learning (non deep learning)</h3>
+<h4>Machine Learning (non deep learning)</h4>
 <ul>
  <li> sklearn </li>
 </ul>
-<h3>Deep learning</h3>
+<h4>Deep learning</h4>
 <ul> 
  <li> tensorflow </li>
  <li> keras </li>
 </ul>
-<h3>Plotting</h3>
+<h4>Plotting</h4>
 <ul>
  <li> seaborn </li>
  <li> matplotlib </li>
