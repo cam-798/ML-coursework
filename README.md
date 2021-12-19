@@ -11,7 +11,7 @@ File 4 contains the binary deep learning model - this includes pulling the the d
 File 5 contains the multi-class deep learning model - this includes pulling the the data and training the model.<br />
 
 Each file can be ran independently, all required modules are listed at the end of this file.  
-
+Please note: some redundant files were included to ensure that progress over weeks could be seen, the 'final' versions of each model can be seen in files : Binary SVM.ipynb ...
 
 <h2>Dependencies</h2> 
 <br>
