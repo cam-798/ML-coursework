@@ -7,14 +7,14 @@ The code is seprated into a number of files, each one is a seperate jupyter note
 
 Files that start with "Machine learning" are draft files. These files are rough drafts and only included to show progress over time of the model as required by the specification. The files that contain the final model are:
 
-Task A)
+<h4>Task A)</h4>
 split_data : contains the code for the code used to spilt that data into seperate folders depending on the image class.<br />
 visulising data : contains the code for the code used to visulise the dataset.<br />
 Binary SVM : contains the code for the SVM model - this inlcudes pulling in the data from the folders and fitting the model.<br />
 Binary CNN : contains the code for the binary deep learning model - this includes pulling the the data and training the model.<br />
 Binary CNN with augemented images : contains the code for the same as the binary CNN but on a dataset with augmented images <br />
 <br>
-Task B)
+<h4>Task B)</h4>
 Multi-class CNN : contains the code for the multi-class deep learning model - this includes pulling the the data and training the model.<br />
 Ensemble CNN : contains the code for multi-class using two CNNs 
 
