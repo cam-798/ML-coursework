@@ -10,6 +10,7 @@ Files that start with "Machine learning" are draft files. These files are rough 
 <h4>No task</h4>
 split_data : contains the code for the code used to spilt that data into seperate folders depending on the image class.<br />
 visulising data : contains the code for the code used to visulise the dataset.<br />
+testing better ways : contains code for trying various things that may have imrpoved the models.
 <br>
 <h4>Task A)</h4>
 Binary SVM : contains the code for the SVM model - this inlcudes pulling in the data from the folders and fitting the model.<br />
