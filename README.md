@@ -1,6 +1,8 @@
 # ML-coursework
 <h1>Machine learning coursework for Applied Machine Learning Systems ELEC0134</h1>
 
+<h1> PLEASE NOTE : If you want to download the folders and data, use google drive (https://drive.google.com/drive/folders/1naSTeo-hc3iDq3w3OobtL6cDkuL-3D2o?usp=sharing) as the files are too big for Github </h1>
+
 Project aim : To develop multiple machine learning models for classifying images of brain tumors (2 binary models, one non-deep learning approach and one deep learning appraoch and one multi-class model) and tune the models to achieve "good" performance. 
 
 The code is seprated into a number of files, each one is a seperate jupyter notebook (.ipynb). <br />
@@ -22,7 +24,7 @@ Multi-class CNN : contains the code for the multi-class deep learning model - th
 Ensemble CNN : contains the code for multi-class using two CNNs 
 
 Each file can be ran independently, all required modules are listed at the end of this file.  
-Please note: some redundant files were included to ensure that progress over weeks could be seen, the 'final' versions of each model can be seen in files : Binary SVM.ipynb ...
+Please note: some redundant files are included here to ensure that progress over term could be seen as requested in the spec. 
 
 <h2>Dependencies</h2> 
 <br>
